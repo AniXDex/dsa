@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/AniXDex/dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AniXDex/dsa/tree/master/0088-merge-sorted-array) |
 | [0485-max-consecutive-ones](https://github.com/AniXDex/dsa/tree/master/0485-max-consecutive-ones) |
+| [0704-binary-search](https://github.com/AniXDex/dsa/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/AniXDex/dsa/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AniXDex/dsa/tree/master/0088-merge-sorted-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/AniXDex/dsa/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
