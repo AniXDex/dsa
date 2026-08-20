@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/AniXDex/dsa/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/AniXDex/dsa/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/AniXDex/dsa/tree/master/0088-merge-sorted-array) |
+| [0485-max-consecutive-ones](https://github.com/AniXDex/dsa/tree/master/0485-max-consecutive-ones) |
 ## Hash Table
 |  |
 | ------- |
